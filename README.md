@@ -1,4 +1,4 @@
-# Sinatra Yield Readme
+# Sinatra Yield Readmee
 
 ## Objectives
 
